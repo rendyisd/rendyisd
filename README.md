@@ -1,4 +1,5 @@
-## Hi there 👋
+> [!NOTE]
+> If I'm not active here on GitHub, I may still be active on LeetCode, check out my LeetCode [![profile](https://leetcode.com/u/risdwanta/)
 
 <!--
 **rendyisd/rendyisd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
