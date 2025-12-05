@@ -1,9 +1,6 @@
 > [!NOTE]
 > Hello, I'm **Rendy Isdwanta**. An aspiring system developer with particular interest in operating system and also open-source software enthusiast.
 ---
-| Languages | Tools |
-|:--------:|:-----:|
-| <img src="https://skillicons.dev/icons?i=c,python,rust,bash" /> | <img src="https://skillicons.dev/icons?i=neovim,linux,docker" /><br>GNU Toolchain, CMake |
 <table><thead>
   <tr>
     <th>Languages</th>
@@ -11,14 +8,23 @@
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="3"><img src="https://skillicons.dev/icons?i=c,python,rust,bash" /><img src="https://img.shields.io/badge/x86--64%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" /></td>
-    <td><img src="https://skillicons.dev/icons?i=neovim,linux,docker" /></td>
+    <td style="text-align: center; vertical-align: middle;" rowspan="3">
+      <img src="https://skillicons.dev/icons?i=c,python,rust,bash" /><br>
+      <img src="https://img.shields.io/badge/x86--64%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=neovim,linux,docker" />
+    </td>
   </tr>
   <tr>
-    <td>GNU Toolchain</td>
+    <td style="text-align: center; vertical-align: middle;">
+      GNU Toolchain
+    </td>
   </tr>
   <tr>
-    <td>CMake</td>
+    <td style="text-align: center; vertical-align: middle;">
+      CMake
+    </td>
   </tr>
 </tbody>
 </table>
