@@ -1,30 +1,28 @@
 > [!NOTE]
 > Hello, I'm **Rendy Isdwanta**. An aspiring system developer with particular interest in operating system and also open-source software enthusiast.
 ---
-<table><thead>
+<table>
+<thead>
   <tr>
     <th>Languages</th>
     <th>Tools</th>
-  </tr></thead>
+  </tr>
+</thead>
 <tbody>
   <tr>
-    <td style="text-align: center; vertical-align: middle;" rowspan="3">
+    <td align="center" rowspan="3">
       <img src="https://skillicons.dev/icons?i=c,python,rust,bash" /><br>
       <img src="https://img.shields.io/badge/x86--64%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
     </td>
-    <td style="text-align: center; vertical-align: middle;">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=neovim,linux,docker" />
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      GNU Toolchain
-    </td>
+    <td align="center">GNU Toolchain</td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      CMake
-    </td>
+    <td align="center">CMake</td>
   </tr>
 </tbody>
 </table>
