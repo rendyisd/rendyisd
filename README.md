@@ -14,7 +14,7 @@
   <tr>
     <td align="center" rowspan="3">
       <img src="https://skillicons.dev/icons?i=c,python,rust,bash" /><br>
-      <img src="https://img.shields.io/badge/x86--64%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+      <img src="https://img.shields.io/badge/x86%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=neovim,linux,docker" />
