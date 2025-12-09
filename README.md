@@ -1,5 +1,5 @@
 > [!NOTE]
-> Hello, I'm **Rendy Isdwanta**. An aspiring system developer with particular interest in operating system and also open-source software enthusiast.
+> Hello, I'm **Rendy Isdwanta**. An aspiring system developer with particular interest in operating system and also open source software enthusiast.
 ---
 
 
