@@ -3,7 +3,7 @@
 ---
 
 
-<table style="margin: 0px auto;">
+<table align="center">
 <thead>
   <tr>
     <th>Languages</th>
