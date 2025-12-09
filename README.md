@@ -14,8 +14,7 @@
   <tr>
     <td align="center" rowspan="3">
       <img src="https://skillicons.dev/icons?i=c,python,rust" /><br>
-      <img src="https://img.shields.io/badge/x86%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" /><br>
-      <img src="https://skillicons.dev/icons?i=laravel,html,css,javascript,bootstrap" />
+      <img src="https://img.shields.io/badge/x86%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=neovim,linux,docker" />
