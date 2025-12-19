@@ -12,7 +12,7 @@
 </thead>
 <tbody>
   <tr>
-    <td align="center" rowspan="3">
+    <td align="center" rowspan="4">
       <img src="https://skillicons.dev/icons?i=c,python,rust" /><br>
       <img src="https://img.shields.io/badge/x86%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
     </td>
@@ -25,6 +25,9 @@
   </tr>
   <tr>
     <td align="center">CMake</td>
+  </tr>
+  <tr>
+    <td align="center">NASM</td>
   </tr>
 </tbody>
 </table>
